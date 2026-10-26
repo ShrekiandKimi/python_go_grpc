@@ -1,0 +1,7 @@
+venv/
+logs/
+__pycache__/
+*.pyc
+certs/*.pem
+certs/*.csr
+db.sqlite3
